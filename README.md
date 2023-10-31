@@ -3,11 +3,8 @@
 I'm Vincent! I am a Mathematician with a Bachelor's and Master's degree from Technical University of Munich and a Ph.D. degree in Mathematics and Quantum Information theory from Copenhagen University.
 
 
-
-
-
 - 🌱 I’m currently learning a bit of everything. 
-- 📫 How to reach me: vincent.steffan@googlemail.com
+- 📫 How to reach me: vincent.steffan@googlemail.com You can also [find me on LinkedIn](https://www.linkedin.com/in/vincent-steffan-90b5331b6)
 
 <!--
 **vsteffan/vsteffan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
