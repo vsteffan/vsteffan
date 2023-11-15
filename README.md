@@ -4,7 +4,7 @@ I'm Vincent! I am a Mathematician with a Bachelor's and Master's degree from Tec
 
 
 * 🌱 I’m currently learning a bit of everything. 
-* 📫 How to reach me: vincent.steffan@googlemail.com You can also [find me on LinkedIn](https://www.linkedin.com/in/vincent-steffan-90b5331b6)
+* 📫 How to reach me: vincent.steffan@googlemail.com You can also [find me on LinkedIn](https://www.linkedin.com/in/vincent-steffan-90b5331b6).
 
 
 
@@ -12,16 +12,16 @@ I'm Vincent! I am a Mathematician with a Bachelor's and Master's degree from Tec
 ## A little overview of my academic outputs during my Ph.D.:
 
 ### 🖋️ Published articles I coauthored 🖋️
- * "SARS-CoV-2 transmission routes from genetic data: A Danish case study" can be found [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241405)
- * "New techniques to lower bound stabilizer rank" can be found [here](https://quantum-journal.org/papers/q-2022-04-20-692/)
+ * "SARS-CoV-2 transmission routes from genetic data: A Danish case study" can be found [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241405).
+ * "New techniques to lower bound stabilizer rank" can be found [here](https://quantum-journal.org/papers/q-2022-04-20-692/).
 
 ### 🖋️ Preprints I coauthored 🖋️
- * "Partial degeneration of tensors" can be found [here](https://arxiv.org/abs/2212.14095v1)
- * "Quantum max-flow in the bridge graph" can be found [here](https://arxiv.org/abs/2212.09794)
- * "The resource theory of tensor networks" can be found [here](https://arxiv.org/abs/2307.07394)
+ * "Partial degeneration of tensors" can be found [here](https://arxiv.org/abs/2212.14095v1).
+ * "Quantum max-flow in the bridge graph" can be found [here](https://arxiv.org/abs/2212.09794).
+ * "The resource theory of tensor networks" can be found [here](https://arxiv.org/abs/2307.07394).
 
 ### 🖋️ Popscience articles I coauthored🖋️
- * "Matematikere afslører smitteveje med corona" can be found [here](https://aktuelnaturvidenskab.dk/find-artikel/nyeste-numre/3-2020/corona-matematik)
+ * "Matematikere afslører smitteveje med corona" can be found [here](https://aktuelnaturvidenskab.dk/find-artikel/nyeste-numre/3-2020/corona-matematik).
 
 For more information, find me [on google scholar](https://scholar.google.com/citations?user=UIaukY8AAAAJ&hl=de).
 
